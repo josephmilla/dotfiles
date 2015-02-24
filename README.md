@@ -8,8 +8,9 @@ Dotfiles setup, shell scripts and whatnot
   `$ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh`
 4. For the theme, we're gonna use a theme made by my awesome mentor, [Brock Angelo](https://github.com/brock).
   `$ cd ~/.oh-my-zsh/themes && curl -O https://raw.githubusercontent.com/josephmilla/dotfiles/master/smt-mod.zsh-theme`
-  
-It's full of emoticons! 👍
+ 
+  It's full of emoticons! 👍
+
 5. Lastly, if you want to add anything else to your dotfiles. Use `.extra` and just do `source .extra` in your `.zshrc`
 
 ### iTerm Multipanel Script
